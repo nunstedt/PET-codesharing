@@ -1,4 +1,4 @@
-# PET-codesharing
+# PET-codesharing - !!!Created with copilot will have to look through!!!
 
 This directory contains MATLAB and C/MEX code for PET/CT simulation, image processing, and positron range modeling. The codebase supports research and development in PET imaging, including simulation of detector effects, positron range blurring, and attenuation correction.
 
